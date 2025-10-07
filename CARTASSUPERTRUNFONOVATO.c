@@ -2,6 +2,10 @@
 
 #define TOTAL_CARTAS 32 // Total de cartas a serem cadastradas
 
+// Desafio Super Trunfo - Países
+// Tema 1 - Cadastro das cartas
+// Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
+
 int main() {
     // ================= VARIÁVEIS =================
     char estado[TOTAL_CARTAS][3];          // Letra do estado (A a H)
